@@ -12,4 +12,4 @@
   - [1.1.6 입출력 시스템과 버스](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.1%20Computer%20Architecture/1.1.6%20Input%20Output%20Systems%20and%20Buses.md)
 
 - 2. 운영체제 기본 개념
-  - [1.2.1 운영체제의 역할과 기능]()
+  - [1.2.1 운영체제의 역할과 기능](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.2%20Operating%20System%20Basics/1.2.1%20Roles%20and%20Functions%20Of%20The%20Operating%20System.md)
