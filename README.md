@@ -15,4 +15,4 @@
 
   - [1.2.1 운영체제의 역할과 기능](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.2%20Operating%20System%20Basics/1.2.1%20Roles%20and%20Functions%20Of%20The%20Operating%20System.md)
 
-  - [1.2.2 커널과 시스템 콜]()
+  - [1.2.2 커널과 시스템 콜](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.2%20Operating%20System%20Basics/1.2.2%20Kernel%20and%20System%20Call.md)
