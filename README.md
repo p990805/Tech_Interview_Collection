@@ -14,5 +14,5 @@
 - 2. 운영체제 기본 개념
 
   - [1.2.1 운영체제의 역할과 기능](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.2%20Operating%20System%20Basics/1.2.1%20Roles%20and%20Functions%20Of%20The%20Operating%20System.md)
-
   - [1.2.2 커널과 시스템 콜](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.2%20Operating%20System%20Basics/1.2.2%20Kernel%20and%20System%20Call.md)
+  - [1.2.3 프로세스와 스레드](https://github.com/p990805/Tech_Interview_Collection/blob/master/01.ComputerSystemFundamentals/1.2%20Operating%20System%20Basics/1.2.3%20Processes%20and%20Threads.md)
